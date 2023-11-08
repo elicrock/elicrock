@@ -1,6 +1,6 @@
 # <span style="color:#41b883;font-weight:900;border-top:none">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Paul</span>
 
-## <span style="font-weight:600">👨🏻‍💻 About me:</span>
+## <span style="color:#41b883;font-weight:600">👨🏻‍💻 About me:</span>
   <ul style="color:#41b883;font-weight:600;list-style:none;margin:0;padding:0;font-size:16px">
     <li>💻 I'm a Frontend developer. I've been a web <code style="font-size:15px"><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /></code> since 2012.</li>
     <li>👯 I'm сurrently working on my pet-project "online store" together with mate.</li>
