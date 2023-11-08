@@ -1,4 +1,4 @@
-# <span style="color:#41b883;font-weight:900;border-top:none">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Paul</span>
+# <span style="color:#41b883;font-weight:900;border-top:none">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Paul</span>
 
 ## <span style="color:#41b883;font-weight:600">👨🏻‍💻 About me:</span>
   <ul style="color:#41b883;font-weight:600;list-style:none;margin:0;padding:0;font-size:16px">
