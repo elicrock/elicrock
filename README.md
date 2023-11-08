@@ -38,9 +38,12 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elicrock)
 
 ## <span style="color:#41b883;font-weight:600">GitHub Stats:</span>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elicrock&theme=vue-dark&show_icons=true&rank_icon=github&hide_title=true) &nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elicrock&theme=vue-dark&show_icons=true&rank_icon=github&hide_title=true) &nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elicrock&size_weight=1&count_weight=1&theme=vue-dark&layout=compact&hide=hack)
 
 ## <span style="color:#41b883;font-weight:600">Top Repositories:</span>
-[![Movies Explorer Frontend](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=movies-explorer-frontend&theme=vue-dark)](https://github.com/elicrock/movies-explorer-frontend) &nbsp;&nbsp;
+[![Movies Explorer Frontend](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=movies-explorer-frontend&theme=vue-dark)](https://github.com/elicrock/movies-explorer-frontend) &nbsp;&nbsp;&nbsp;
 [![Movies Explorer Api](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=movies-explorer-api&theme=vue-dark)](https://github.com/elicrock/movies-explorer-api)
+
+[![Giphy Contest Yandex](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=giphy-contest-yandex&theme=vue-dark)](https://github.com/elicrock/giphy-contest-yandex) &nbsp;&nbsp;&nbsp;
+[![React Mesto Api Full Gha](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=react-mesto-api-full-gha&theme=vue-dark)](https://github.com/elicrock/react-mesto-api-full-gha)
