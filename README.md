@@ -1,4 +1,4 @@
-# <span style="color:#41b883;font-weight:900;border-top:none">Hi <img src="./assets/icons/hi.gif" /> My name is Paul</span>
+<h1 style="color:#41b883;font-weight:900;border-top:none">Hi <img src="./assets/icons/hi.gif" /> My name is Paul</h1>
 
 ## <span style="color:#41b883;font-weight:600">👨🏻‍💻 About me:</span>
   <ul style="color:#41b883;font-weight:600;list-style:none;margin:0;padding:0;font-size:16px">
