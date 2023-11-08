@@ -6,8 +6,6 @@
     <li>👯 I'm сurrently working on my pet-project "online store" together with mate.</li>
     <li>👨‍💻 I completed at the Yandex.Practicum on the Web Developer course.</li>
     <li>💬 I like <code>coding</code> and <code>sports.</code></li>
-    <!-- <li>🚀</li> -->
-    <!-- <li>⚡</li> -->
   </ul>
 
 ## <span style="color:#41b883;font-weight:600">🔗 Contacts:</span>
