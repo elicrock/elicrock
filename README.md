@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Paul_Ivanov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulivanov1990/)](https://www.linkedin.com/in/paulivanov1990/)
 
 
-## 💻 Skils:
+## ⭐ Skils:
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -40,7 +40,7 @@
 [<img src='./assets/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/paulivanov1990/)
 [<img src='./assets/img/github.png' alt='github' height='40'>](https://github.com/elicrock)
 
-## ⭐ GitHub Stats:
+## 📈 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elicrock&theme=vue-dark&show_icons=true&rank_icon=github&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elicrock&size_weight=1&count_weight=1&theme=vue-dark&layout=compact&hide=hack)
 
