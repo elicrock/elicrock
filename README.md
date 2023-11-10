@@ -7,11 +7,15 @@
 * 👯 I'm сurrently working on my pet-project "online store" together with mate.
 * 🎓 I completed at the Yandex.Practicum on the Web Developer course.
 * 💬 I like <code>coding</code> and <code>sports.</code>
-
-## ✉️ Contacts:
+* ✉️ Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-Paul_Ivanov-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/elicrock)](https://t.me/elicrock)
 [![Gmail Badge](https://img.shields.io/badge/-Paul_Ivanov-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:paul.ivanov1990@gmail.com)](mailto:paul.ivanov1990@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Paul_Ivanov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulivanov1990/)](https://www.linkedin.com/in/paulivanov1990/)
+
+<!-- ## ✉️ Contacts:
+[![Telegram Badge](https://img.shields.io/badge/-Paul_Ivanov-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/elicrock)](https://t.me/elicrock)
+[![Gmail Badge](https://img.shields.io/badge/-Paul_Ivanov-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:paul.ivanov1990@gmail.com)](mailto:paul.ivanov1990@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Paul_Ivanov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulivanov1990/)](https://www.linkedin.com/in/paulivanov1990/) -->
 
 
 ## ⭐ Skils:
