@@ -49,6 +49,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elicrock&size_weight=1&count_weight=1&theme=vue-dark&layout=compact&hide=hack)
 
 ## 🚀 Top Repositories:
+[![parking-spaces](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=parking-spaces&theme=vue-dark)](https://github.com/elicrock/parking-spaces)
+[![BuildsWays-api](https://github-readme-stats.vercel.app/api/pin/?username=Garnett163&repo=BuildsWays-api&theme=vue-dark)](https://github.com/Garnett163/BuildsWays-api)
+[![BuildWays](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=BuildWays&theme=vue-dark)](https://github.com/elicrock/BuildWays)
 [![Movies Explorer Frontend](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=movies-explorer-frontend&theme=vue-dark)](https://github.com/elicrock/movies-explorer-frontend)
 [![Movies Explorer Api](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=movies-explorer-api&theme=vue-dark)](https://github.com/elicrock/movies-explorer-api)
 [![Giphy Contest Yandex](https://github-readme-stats.vercel.app/api/pin/?username=elicrock&repo=giphy-contest-yandex&theme=vue-dark)](https://github.com/elicrock/giphy-contest-yandex)
