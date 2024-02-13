@@ -1,8 +1,6 @@
 # Hi 👋 My name is Paul
 
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="250" alt="Cooding process" />
-
-<img src="./assets/programmer.gif" width="250" alt="Cooding" />
+<img src="./assets/programmer.gif" width="320" alt="Cooding" />
 
 ## 👨🏻‍💻 About me:
 * 💻 I'm a Frontend developer. I've been a web <code><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛&nbsp;/></code> since 2012.
