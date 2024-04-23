@@ -1,6 +1,6 @@
 # Hi 👋 My name is Paul
 
-<img src="./assets/programmer.gif" width="320" alt="Cooding" />
+<img src="./assets/programmer.gif" width="320" alt="Cooding..." />
 
 ## 👨🏻‍💻 About me:
 * 💻 I'm a Frontend developer. I've been a web <code><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛&nbsp;/></code> since 2012.
